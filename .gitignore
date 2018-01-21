@@ -1,0 +1,35 @@
+#==================#
+# Python generated #
+#==================#
+*.pyc
+
+#===============#
+# IDE generated #
+#===============#
+.idea
+
+#==============#
+# OS generated #
+#==============#
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+#================#
+# Image datasets #
+#================#
+cascade_training/CAT_DATASET_01.zip
+cascade_training/CAT_DATASET_01
+cascade_training/CAT_DATASET_02.zip
+cascade_training/CAT_DATASET_02
+cascade_training/VOC2007
+cascade_training/VOCtest_06-Nov-2007.tar
+cascade_training/faces.tar
+cascade_training/faces
